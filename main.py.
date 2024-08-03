@@ -2,4 +2,4 @@ def main():
     print("Welcome to GramsOfMoments!")
 
 if __name__ == "__main__":
-    main()
+    main() 
